@@ -1,9 +1,10 @@
 import React from 'react'
 
-const page = () => {
+const UserPage = () => {
+  // cost res = await 
   return (
-<div>page hello user</div>
+<div>UserPage hello user</div>
   )
 }
 
-export default page
+export default UserPage
